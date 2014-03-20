@@ -1,5 +1,5 @@
 # data files are huge.#
-data/orinigal.*
+data/original/*
 
 # OS generated files #
 ######################
@@ -10,3 +10,9 @@ data/orinigal.*
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Eclipse generated files#
+#######################
+.metadata
+python_code/.project
+python_code/.pydevproject
