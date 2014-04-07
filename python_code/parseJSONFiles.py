@@ -18,9 +18,10 @@ def preprocessBusinessFile():
         latitude = businessObject[u'latitude']
         stars = businessObject[u'stars']
         categories = businessObject[u'categories']   
-         
-        outFile.write('name: %s\nid: %s\nlongtitude: %f\nlatitude: %f\nstars: %f\n' 
-                      % (name, business_id, longitude, latitude, stars))
+        
+        outFile.write('name: %s\nid: %s\nlongtitude: %f\nlatitude: %f\nstars: %f\n'
+                      % (name.encode('utf-8'), business_id.encode('utf-8'), longitude, latitude, stars))
+
         outFile.write('categories: %s\n\n' % (','.join(categories)))  
     inFile.close()
     outFile.close()

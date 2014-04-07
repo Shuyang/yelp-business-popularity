@@ -47,7 +47,7 @@ latitude: 33.502459
 stars: 5.000000
 categories: Real Estate Services,Property Management,Home Services,Real Estate
 
-name: Bertha's Café
+name: Bertha's Caf√©
 id: mQfT3JYu18HN22DVylcE7A
 longtitude: -112.014454
 latitude: 33.495216
@@ -75,7 +75,7 @@ latitude: 33.300563
 stars: 1.500000
 categories: Health & Medical,Diagnostic Services,Diagnostic Imaging
 
-name: Sweet Cakes Café
+name: Sweet Cakes Caf√©
 id: MiVcQsXp3TYUmeD7FSa-hA
 longtitude: -111.832185
 latitude: 33.414840
@@ -2637,7 +2637,7 @@ latitude: 33.335558
 stars: 4.500000
 categories: Automotive,Registration Services
 
-name: El Norteño
+name: El Norte√±o
 id: I20sRbcEK8Ib1YFQFMoERg
 longtitude: -112.082895
 latitude: 33.458839
@@ -4548,7 +4548,7 @@ latitude: 33.493973
 stars: 3.500000
 categories: Chinese,Restaurants
 
-name: Café Allegro at MIM
+name: Caf√© Allegro at MIM
 id: T11YSYqwlRDC48V8-W1GRw
 longtitude: -111.978053
 latitude: 33.667606
@@ -5241,7 +5241,7 @@ latitude: 33.068257
 stars: 2.000000
 categories: Health & Medical,Dentists
 
-name: Café Biblioteca
+name: Caf√© Biblioteca
 id: JJGBx48I4yudiEhw9fGbZw
 longtitude: -111.935912
 latitude: 33.419105
@@ -7327,7 +7327,7 @@ latitude: 33.478451
 stars: 5.000000
 categories: Hobby Shops,Art Supplies,Shopping,Jewelry,Arts & Crafts
 
-name: Essence Bakery Café
+name: Essence Bakery Caf√©
 id: eTbtfgUtfewdncgVf2CbWw
 longtitude: -111.951184
 latitude: 33.421792
@@ -11037,7 +11037,7 @@ latitude: 33.666682
 stars: 3.000000
 categories: Chinese,Restaurants
 
-name: Solo Café Gourmet Coffee & Tea House
+name: Solo Caf√© Gourmet Coffee & Tea House
 id: ABC57h7Dh1Vy9q3cztAm5A
 longtitude: -111.938226
 latitude: 33.378062
@@ -14040,7 +14040,7 @@ latitude: 33.334634
 stars: 3.500000
 categories: Chinese,Restaurants
 
-name: Butters Pancakes & Café
+name: Butters Pancakes & Caf√©
 id: EMGkbiCMfMTflQux-_JY7Q
 longtitude: -111.899636
 latitude: 33.554825
@@ -16154,7 +16154,7 @@ latitude: 33.448246
 stars: 5.000000
 categories: Auto Repair,Automotive
 
-name: Señor Taco
+name: Se√±or Taco
 id: kw-LLNv9p58DM7_lgIubVQ
 longtitude: -112.186783
 latitude: 33.666682
@@ -19773,7 +19773,7 @@ latitude: 33.408375
 stars: 5.000000
 categories: Pilates,Chiropractors,Health & Medical,Trainers,Fitness & Instruction,Active Life
 
-name: The Main Ingredient Ale House And Café
+name: The Main Ingredient Ale House And Caf√©
 id: M6fjHpkL9IRI-nI0BattRw
 longtitude: -112.064795
 latitude: 33.474683
@@ -20816,7 +20816,7 @@ latitude: 33.425155
 stars: 3.000000
 categories: Bars,Food,Breweries,Pubs,Nightlife,American (New),Restaurants
 
-name: Salvadoreño Restaurant
+name: Salvadore√±o Restaurant
 id: cNGI_5GbfNFbZBMQZ-s-UQ
 longtitude: -112.073460
 latitude: 33.566128
@@ -21320,7 +21320,7 @@ latitude: 33.495483
 stars: 5.000000
 categories: Sandwiches,Restaurants
 
-name: Mariée Bridal
+name: Mari√©e Bridal
 id: NDqsdHJYCE1FPHq_dJBJCg
 longtitude: -111.924934
 latitude: 33.566787
@@ -21670,7 +21670,7 @@ latitude: 33.422044
 stars: 4.000000
 categories: Barbers,Beauty & Spas
 
-name: Karen's Kreamery Café
+name: Karen's Kreamery Caf√©
 id: C6CkpFQExivxorxMt2ZszA
 longtitude: -112.326093
 latitude: 33.574890
@@ -21971,7 +21971,7 @@ latitude: 33.582734
 stars: 5.000000
 categories: Active Life,Weight Loss Centers,Health & Medical,Fitness & Instruction
 
-name: Gigi's Café & BBQ
+name: Gigi's Caf√© & BBQ
 id: EwhRz-ODTHpsJ91gBED7TA
 longtitude: -111.841662
 latitude: 33.311066
@@ -33577,7 +33577,7 @@ latitude: 33.634160
 stars: 3.000000
 categories: Local Services,Dry Cleaning & Laundry
 
-name: Fair Trade Café
+name: Fair Trade Caf√©
 id: zBl32GAjYcKNpsEGPXXuqg
 longtitude: -112.074073
 latitude: 33.453231
@@ -33850,7 +33850,7 @@ latitude: 33.551137
 stars: 3.500000
 categories: Hardware Stores,Shopping,Home & Garden
 
-name: Salty Señorita
+name: Salty Se√±orita
 id: Yiw1ml0XVBDIQBTLXHNGmQ
 longtitude: -111.806997
 latitude: 33.380902
@@ -36580,7 +36580,7 @@ latitude: 33.248126
 stars: 4.000000
 categories: Hotels & Travel,Event Planning & Services,Venues & Event Spaces,Hotels
 
-name: Señor Taco
+name: Se√±or Taco
 id: wWvInCI38F80lqLvnW26hg
 longtitude: -111.842033
 latitude: 33.245498
@@ -40276,7 +40276,7 @@ latitude: 33.501360
 stars: 4.000000
 categories: Food,Ice Cream & Frozen Yogurt
 
-name: Barrio Café
+name: Barrio Caf√©
 id: 1NZLxU5WvB5roPFzneAlLw
 longtitude: -112.047822
 latitude: 33.478848
@@ -41634,7 +41634,7 @@ latitude: 33.833599
 stars: 4.500000
 categories: Auto Repair,Automotive,Tires
 
-name: Jalapeño Inferno Bistro Mexicano
+name: Jalape√±o Inferno Bistro Mexicano
 id: jVgtPnzXvZQOCCIUPEBktA
 longtitude: -111.923513
 latitude: 33.700593
@@ -43384,7 +43384,7 @@ latitude: 33.496880
 stars: 3.500000
 categories: Food,Bars,Street Vendors,Sports Bars,Nightlife
 
-name: Zoës Kitchen
+name: Zo√´s Kitchen
 id: ZVu400Wt7VKU5SdKwUR9lA
 longtitude: -111.928350
 latitude: 33.500662
@@ -47675,7 +47675,7 @@ latitude: 33.304808
 stars: 4.000000
 categories: Food,Ice Cream & Frozen Yogurt
 
-name: Fàn Boy at ASU
+name: F√†n Boy at ASU
 id: E5CDCVDHpNzTPh5F3Pbppg
 longtitude: -111.932792
 latitude: 33.414651
@@ -47997,7 +47997,7 @@ latitude: 33.493179
 stars: 3.000000
 categories: Nightlife,Mexican,Tex-Mex,Restaurants
 
-name: Biscuits Café
+name: Biscuits Caf√©
 id: heyprN6HwLYVWINXd2z3OQ
 longtitude: -112.187000
 latitude: 33.661670
@@ -48935,7 +48935,7 @@ latitude: 33.378787
 stars: 2.500000
 categories: Pizza,Restaurants
 
-name: Franco's Italian Caffé
+name: Franco's Italian Caff√©
 id: RBvQPI6xn2GmiAOnhirBUw
 longtitude: -111.925776
 latitude: 33.499275
@@ -51273,7 +51273,7 @@ latitude: 33.348085
 stars: 1.000000
 categories: Hotels & Travel,Car Rental
 
-name: Señor Taco
+name: Se√±or Taco
 id: NcXkPZKc6PJQYb9hOcTMJw
 longtitude: -112.392118
 latitude: 33.452287
@@ -54500,7 +54500,7 @@ latitude: 33.520077
 stars: 5.000000
 categories: Pet Services,Home Services,Pets
 
-name: Café Conmigo
+name: Caf√© Conmigo
 id: S-Wd--9bLPtgfs8CtTmGuQ
 longtitude: -111.925686
 latitude: 33.499927
@@ -55613,7 +55613,7 @@ latitude: 33.465843
 stars: 3.500000
 categories: American (Traditional),Fast Food,Restaurants
 
-name: Corvé
+name: Corv√©
 id: BrONVjuwnG79W5FYjKzpqg
 longtitude: -112.011028
 latitude: 33.510394
@@ -60380,7 +60380,7 @@ latitude: 33.415051
 stars: 4.000000
 categories: Chinese,Restaurants
 
-name: Hâute Cakes Gourmet Baking Co.
+name: H√¢ute Cakes Gourmet Baking Co.
 id: MWM9tjMcHBBscXOBr6wmyA
 longtitude: -111.910516
 latitude: 33.468848
@@ -67002,7 +67002,7 @@ latitude: 33.455047
 stars: 3.500000
 categories: Gardeners,Landscaping,Landscape Architects,Home Services
 
-name: La Piñata
+name: La Pi√±ata
 id: LQGQ1w4pYrf5in6LrU0BlQ
 longtitude: -112.099980
 latitude: 33.485734
@@ -67702,7 +67702,7 @@ latitude: 33.462383
 stars: 3.500000
 categories: Fashion,Shopping,Jewelry,Accessories
 
-name: Café Monarch
+name: Caf√© Monarch
 id: L-uPZxooP_ziXCtRrWi8Pw
 longtitude: -111.931447
 latitude: 33.494205
@@ -68255,7 +68255,7 @@ latitude: 33.636033
 stars: 5.000000
 categories: Active Life,Martial Arts,Fitness & Instruction
 
-name: Da Vàng
+name: Da V√†ng
 id: Zy2vca7i9QFGRKa4m0C__A
 longtitude: -112.100046
 latitude: 33.503892
@@ -70684,7 +70684,7 @@ latitude: 33.714326
 stars: 3.500000
 categories: Food,Grocery
 
-name: Inside The Bungalow Café
+name: Inside The Bungalow Caf√©
 id: bSFuJDDTj6BeKypgBNFBGg
 longtitude: -111.836832
 latitude: 33.416546
@@ -74198,7 +74198,7 @@ latitude: 33.690484
 stars: 4.500000
 categories: Post Offices,Public Services & Government
 
-name: Tortas El Güero
+name: Tortas El G√ºero
 id: dBMd0f09nJCHURtmGHQPIQ
 longtitude: -111.841213
 latitude: 33.314000
@@ -82584,7 +82584,7 @@ latitude: 33.423150
 stars: 1.000000
 categories: Professional Services,Electronics,Shopping,Home Services,Internet Service Providers
 
-name: Tortas El Güero
+name: Tortas El G√ºero
 id: he_b4txorHTrKjH5DnnmdQ
 longtitude: -111.992303
 latitude: 33.480151
@@ -83053,7 +83053,7 @@ latitude: 33.486145
 stars: 4.000000
 categories: Italian,Pizza,Restaurants
 
-name: Sí Señor Restaurant
+name: S√≠ Se√±or Restaurant
 id: s8cHXeSlX_aPI2x49UkCCg
 longtitude: -111.859677
 latitude: 33.313774
@@ -84642,7 +84642,7 @@ latitude: 33.528374
 stars: 5.000000
 categories: Churches,Religious Organizations
 
-name: Leonidas Chocolates & Café
+name: Leonidas Chocolates & Caf√©
 id: I2tzm9Xex2Aa8wBuRsqskg
 longtitude: -111.772012
 latitude: 33.310810
@@ -89906,7 +89906,7 @@ latitude: 33.636339
 stars: 2.500000
 categories: Active Life,Gyms,Trainers,Fitness & Instruction
 
-name: Señor Taco
+name: Se√±or Taco
 id: 9ao7DSa0vgDMQqrWtEcwnQ
 longtitude: -111.682315
 latitude: 33.451021
@@ -91481,7 +91481,7 @@ latitude: 33.385285
 stars: 3.500000
 categories: Health Markets,Food,Specialty Food
 
-name: Crêpe Bar
+name: Cr√™pe Bar
 id: vaabk6CYXX1dYVQ1xkyPUg
 longtitude: -111.929926
 latitude: 33.349711
@@ -91908,7 +91908,7 @@ latitude: 33.874003
 stars: 4.000000
 categories: Fashion,Shopping,Shoe Stores
 
-name: Sapna Café
+name: Sapna Caf√©
 id: QPheu9dnwdlaPwXofP8ijw
 longtitude: -112.089816
 latitude: 33.457118
@@ -98257,7 +98257,7 @@ latitude: 33.263243
 stars: 2.500000
 categories: Department Stores,Fashion,Shopping
 
-name: B&G Café
+name: B&G Caf√©
 id: -g5leVOzKA33Ruabe2Zo9w
 longtitude: -111.789581
 latitude: 33.334868
@@ -102177,7 +102177,7 @@ latitude: 33.684219
 stars: 3.500000
 categories: Fast Food,Restaurants
 
-name: Tortas El Güero
+name: Tortas El G√ºero
 id: oZnDl9u2CImtvvKrc3KmPw
 longtitude: -111.800499
 latitude: 33.415186
@@ -103402,7 +103402,7 @@ latitude: 33.424281
 stars: 3.500000
 categories: Delis,Fast Food,Sandwiches,Restaurants
 
-name: Café Lalibela
+name: Caf√© Lalibela
 id: -bd26a1QEEpqUZjBmtBUiQ
 longtitude: -111.951615
 latitude: 33.421336
