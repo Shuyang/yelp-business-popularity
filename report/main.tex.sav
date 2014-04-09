@@ -1,0 +1,16 @@
+\input{header_www}
+\begin{document}
+
+\title{Where should I open a new restaurant? Predicting popularity of business using location-based data}
+\author{
+Shuyang Lin, Jiawei Zhang, Bokai Cao\\
+}
+\date{}
+\maketitle
+
+\input{progress}
+
+%\input{tail}
+
+\end{document}
+p

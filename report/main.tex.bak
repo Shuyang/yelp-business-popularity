@@ -1,0 +1,15 @@
+\input{header_www}
+\begin{document}
+
+\title{Where should I open a new restaurant? Predicting popularity of business using location-based data}
+\author{
+Bokai Cao\\
+}
+\date{}
+\maketitle
+
+\input{note0406}
+
+%\input{tail}
+
+\end{document}

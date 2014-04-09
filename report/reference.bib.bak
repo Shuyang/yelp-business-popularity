@@ -1,0 +1,39 @@
+@article{chao2010dparsf,
+  title={{DPARSF}: a MATLAB toolbox for ¡°pipeline¡± data analysis of resting-state fMRI},
+  author={Chao-Gan, Yan and Yu-Feng, Zang},
+  journal={Frontiers in systems neuroscience},
+  volume={4},
+  year={2010},
+  publisher={Frontiers Research Foundation}
+}
+
+@article{soares2013hitchhiker,
+  title={A hitchhiker's guide to diffusion tensor imaging},
+  author={Soares, Jos{\'e} M and Marques, Paulo and Alves, Victor and Sousa, Nuno},
+  journal={Frontiers in neuroscience},
+  volume={7},
+  year={2013},
+  publisher={Frontiers Media SA}
+}
+
+@article{alger2012diffusion,
+  title={The diffusion tensor imaging toolbox},
+  author={Alger, Jeffry R},
+  journal={The Journal of Neuroscience},
+  volume={32},
+  number={22},
+  pages={7418--7428},
+  year={2012},
+  publisher={Soc Neuroscience}
+}
+
+@article{guyon2002gene,
+  title={Gene selection for cancer classification using support vector machines},
+  author={Guyon, Isabelle and Weston, Jason and Barnhill, Stephen and Vapnik, Vladimir},
+  journal={Machine learning},
+  volume={46},
+  number={1-3},
+  pages={389--422},
+  year={2002},
+  publisher={Springer}
+}

@@ -1,0 +1,27 @@
+\section*{Progress Report}
+\subsection{What has been accomplished to date}
+
+Following the schedule in our proposal, we have downloaded the Yelp dataset\footnote{http://www.yelp.com/dataset\_challenge} and preprocessed the data. We start from exploiting the basic business information, parsed as below:\\
+\emph{
+\small
+\indent name: Forever 21\\
+\indent id: 7lbvsGKzhjuX3oJtaXJvOg\\
+\indent longitude: -111.964485\\
+\indent latitude: 33.383123\\
+\indent stars: 3.5\\
+\indent categories: Women's Clothing,Men's Clothing,Fashion,Shopping,Accessories
+}
+
+To implement $k$-NN algorithm, we first need to define the neighbors of each business. As we can notice, a food plaza should encompass a diversity of popular restaurants, a shopping mall always includes many brand stores, and a bar street is occupied by various lively pubs. Following the homophily principle in the same category, we intuitively give the definition of business neighbor.
+
+\begin{defn}[Business Neighbor]
+Business A is the neighbor of business B, iff $category_A \cap category_B \neq \varnothing$.
+\end{defn}
+
+In this way, the popularity of a certain business can be inferred by its neighbor in the same category. This is exactly the idea of $k$-NN algorithm. We implemented a 10-fold cross-validation. Specifically, in each round, we take one fold as test set and the remaining nine folds as training set. For each business in the test set, the average star rating of its $k$ nearest neighbors would be its predicted rating. For evaluation, mean squared error (MSE) is used to quantify the difference between predicted values $\hat{Y}_i$ and the ground truth $Y_i$.
+
+$$MSE=\frac{1}{n}\sum_{i=1}^{n}(\hat{Y}_i-Y_i)^2$$
+
+In the experiments, we set $k$ to $5$. The final experimental result is $0.879 \pm 0.034$ (mean $\pm$ std).
+
+\subsection{What remains to be done}
