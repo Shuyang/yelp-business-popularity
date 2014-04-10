@@ -22,8 +22,17 @@ In this way, the popularity of a certain business can be inferred by its neighbo
 
 $$MSE=\frac{1}{n}\sum_{i=1}^{n}(\hat{Y}_i-Y_i)^2$$
 
-In the experiments, we set $k$ to $5$. The final experimental result is $0.879 \pm 0.034$ (mean $\pm$ std).
+In the experiments, we set $k=1,\cdots,9$ respectively. As we can see the experimental result in Figure~\ref{knn}, the larger $k$ is, the better MSE we can achieve. Notice that $Y_i$ ranges from 1 to 5. This result leads us to a doubt that whether exploiting the geographical neighbors for a business with the same category is really a valid approach to determine its popularity. It is likely that a more sophisticated method would be necessary.
+
+\begin{figure*}[t]
+\centering
+    \begin{minipage}[l]{\columnwidth}
+      \centering
+      \includegraphics[width=1\textwidth]{knn}
+    \end{minipage}
+  \caption{Performance of k-NN algorithm (mean $\pm$ std).}\label{knn}
+\end{figure*}
 
 \subsection{What remains to be done}
 
-The next step for us is to consider how to exploit the correlations between different types of businesses. In the $k$-NN baseline, the problem is simply decomposed into independent subproblems for each category, where only the homophily principle is leveraged. However, there might be counteractions between certain pairs of businesses. An interesting idea is to propagate such information, either positive or negative, across different types of businesses within the neighborhood. An alternative approach is to extract some informative features from the dataset to facilitate the prediction task. 
+The next step for us is to consider how to exploit the correlations between different types of businesses. In the $k$-NN baseline, the problem is simply decomposed into independent subproblems for each category, where only the homophily principle is leveraged. However, there might be counteractions between certain pairs of businesses. An interesting idea is to propagate such information, either positive or negative, across different types of businesses within the neighborhood. An alternative approach is to extract some informative features from the dataset to facilitate the prediction task.

@@ -25,3 +25,5 @@ $$MSE=\frac{1}{n}\sum_{i=1}^{n}(\hat{Y}_i-Y_i)^2$$
 In the experiments, we set $k$ to $5$. The final experimental result is $0.879 \pm 0.034$ (mean $\pm$ std).
 
 \subsection{What remains to be done}
+
+The next step for us is to consider how to exploit the correlations between different types of businesses. In the $k$-NN baseline, the problem is simply decomposed into independent subproblems for each category, where only the homophily principle is leveraged. However, there might be counteractions between certain pairs of businesses. An interesting idea is to propagate such information, either positive or negative, across different types of businesses within the neighborhood. An alternative approach is to extract some informative features from the dataset to facilitate the prediction task. 
